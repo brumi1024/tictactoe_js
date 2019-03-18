@@ -1,0 +1,58 @@
+.brand-logo {
+    margin: 0 25px;
+}
+
+.row {
+    height: 95vh;
+    margin-bottom: 0;
+}
+
+.full-height {
+    height: 100%;
+}
+
+.menu {
+    padding: 15px;
+}
+
+.collapsible-header:focus {
+    outline: 0;
+}
+
+.gameTableContainer {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 50px;
+}
+
+.playerCard {
+    width: 300px;
+    margin: 0 150px;
+}
+
+.card-content {
+    height: 80%;
+}
+
+#gameTableDiv {
+    width: 300px;
+    height: 300px;
+    margin: 0 150px;
+}
+
+#playerOneTurn, #playerTwoTurn {
+    display: none;
+}
+
+#playerOneSignField, #playerTwoSignField {
+    display: none;
+}
+
+.cell {
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+}
+
+
+
